@@ -1,0 +1,17 @@
+의류	여성의류	여성상의	맨투맨	Nike	1000000	15	Coat.jpg
+의류	여성의류	여성상의	맨투맨2	Nike	10000	15	Coat2.jpg
+의류	남성의류	남성하의	슬랙스	Adidas	30000	10	Slacks.jpg
+의류	유아의류	유아아우터	청자켓	Levis	150000	6	Jacket.jpg
+의류	여성의류	여성하의	치마	Newbalance	60000	15	Skirt.jpg
+의류	남성의류	남성아우터	바람막이	Nike	60000	30	Windbreaker.jpg
+의류	유아의류	유아상의	스웨터	Levis	50000	12	Sweater.png
+식품	신선식품	수산물	광어회	영철수산	60000	5	RawFish.jpg
+식품	신선식품	과일채소	토마토	풀밭농산	50000	300	Tomato.jpeg
+식품	가공식품	과자간식	새우깡	농심	1000	50	Shrimp.jpg
+식품	가공식품	즉석식품	신라면	농심	1000	50	Ramen.jpg
+식품	가공식품	즉석식품	진라면	오뚜기	1000	50	Ramen.jpg
+식품	가공식품	즉석식품	삼양라면	삼양	1000	50	Ramen.jpg
+식품	가공식품	통조림	동원참치	동원	3000	50	Can.bmp
+식품	건강식품	영양제	비타민제	제일제약	50000	60	Vitamin.png
+디지털	휴대폰	SKT	갤럭시S7	Samsung	700000	100	S7.png
+디지털	컴퓨터	노트북	아티브북	Samsung	1000000	20	Book.jpg

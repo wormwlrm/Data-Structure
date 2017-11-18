@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2015104220_정종윤_Project1", "2015104220_정종윤_Project1\2015104220_정종윤_Project1.vcxproj", "{FD92DCF7-38BB-4154-B869-B587018526B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{61B6AAA4-B968-48EE-B06D-3206E10A631C}"
+	ProjectSection(SolutionItems) = preProject
+		2015104220_정종윤_Project1\Products.txt = 2015104220_정종윤_Project1\Products.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD92DCF7-38BB-4154-B869-B587018526B7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD92DCF7-38BB-4154-B869-B587018526B7}.Debug|Win32.Build.0 = Debug|Win32
+		{FD92DCF7-38BB-4154-B869-B587018526B7}.Release|Win32.ActiveCfg = Release|Win32
+		{FD92DCF7-38BB-4154-B869-B587018526B7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
